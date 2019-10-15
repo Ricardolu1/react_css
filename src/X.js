@@ -13,8 +13,8 @@ const Title = styled.div`
 function X() {
   return(
     <div>
+      <Topbar theme="green"/>
       <Title>X</Title>
-      <Topbar />
     </div>
   )
 }
